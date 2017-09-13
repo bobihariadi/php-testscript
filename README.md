@@ -1,2 +1,2 @@
 # php-testscript
-all script php testing
+all script php testing folder
